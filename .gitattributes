@@ -51,3 +51,4 @@ Content/EuropeanBeech/Geometry/PivotPainter/SM_EuropeanBeech_Field_01_PP.uasset 
 Icarus_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
 Face_Archetype.uasset filter=lfs diff=lfs merge=lfs -text
 SM_EuropeanBeech_Forest_01_PP.uasset filter=lfs diff=lfs merge=lfs -text
+SM_EuropeanBeech_Forest_02_PP.uasset filter=lfs diff=lfs merge=lfs -text
